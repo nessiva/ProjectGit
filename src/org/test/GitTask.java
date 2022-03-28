@@ -18,6 +18,10 @@ public class GitTask {
 		System.out.println("GITPULLL"+c1);
 	}
 	
+	private void sivaPush() {
+		System.out.println("Success");
+	}
+	
 	public static void main(String[] args) {
 		
 		GitTask git = new GitTask();
